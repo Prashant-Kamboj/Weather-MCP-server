@@ -241,3 +241,6 @@ main().catch((error) => {
   console.error("Fatal error in main():", error);
   process.exit(1);
 });
+
+// to run this MCP Server use below command
+// node /Users/prashantkamboj/Desktop/Weather-MCP-server/build/index.js
